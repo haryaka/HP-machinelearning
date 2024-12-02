@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 st.title('Machine Learning App')
 
-st.info('Ini adalah Machine Learning untuk memenuhi project UAS mata kuliah Data Mining')
+st.info('Ini adalah Machine Learning untuk memenuhi project Ujian Akhir Semester mata kuliah Data Mining dan Big Data Analysis')
 
 with st.expander('Data'):
   st.write('**Raw data**')
